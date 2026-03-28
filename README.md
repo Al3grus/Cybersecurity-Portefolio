@@ -13,10 +13,7 @@ All work was produced in controlled lab environments.
 
 *Edge to cloud. Threat to response.*
 
-A fully operational SOC lab built on Raspberry Pi hardware and a cloud-hosted 
-central platform, designed to mirror real MSSP/MDR infrastructure.
-
-**Stack:** Wazuh SIEM (VPS) · Claude API (AI triage) · n8n · WireGuard VPN · Suricata NIDS · Grafana · Zeek · Velociraptor DFIR · Cowrie Honeypot · Frigate (AI camera) · PagerDuty · Telegram Bot
+A fully functional, AI-powered Security Operations Centre built on home lab hardware and a cloud-hosted central platform, designed to demonstrate hands-on proficiency across the full security kill chain: network monitoring, threat detection, AI-powered alert triage, live endpoint forensics, incident response, physical security monitoring, and automated reporting.
 
 ---
 
