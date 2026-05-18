@@ -13,7 +13,8 @@ All work was produced in controlled lab environments.
 
 *Edge to cloud. Threat to response.*
 
-A fully functional, AI-powered Security Operations Centre built on home lab hardware and a cloud-hosted central platform, designed to demonstrate hands-on proficiency across the full security kill chain: network monitoring, threat detection, AI-powered alert triage, live endpoint forensics, incident response and automated reporting.
+Home lab Security Operations Centre built on a cloud-hosted central platform and on-premise enterprise infrastructure (Hetzner VPS + ThinkCentre Proxmox + Raspberry Pi 5 edge sensor + Active Directory lab). MSSP-style topology with AI-powered alert triage, custom detection engineering, and full attack → gap → fix → re-test scenario documentation. Build journey at [al3grus.github.io](https://al3grus.github.io).
+
 
 ---
 
