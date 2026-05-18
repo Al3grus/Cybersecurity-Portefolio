@@ -9,11 +9,11 @@ All work was produced in controlled lab environments.
 
 ## ⭐ Featured - Project in development
 
-### [Argus SOC — AI-Augmented Security Operations Center](https://github.com/Al3grus/Argus-SOC)
+### [Argus SOC — AI-Augmented Home Lab Security Operations Center](https://github.com/Al3grus/Argus-SOC)
 
 *Edge to cloud. Threat to response.*
 
-A fully functional, AI-powered Security Operations Centre built on home lab hardware and a cloud-hosted central platform, designed to demonstrate hands-on proficiency across the full security kill chain: network monitoring, threat detection, AI-powered alert triage, live endpoint forensics, incident response, physical security monitoring, and automated reporting.
+A fully functional, AI-powered Security Operations Centre built on home lab hardware and a cloud-hosted central platform, designed to demonstrate hands-on proficiency across the full security kill chain: network monitoring, threat detection, AI-powered alert triage, live endpoint forensics, incident response and automated reporting.
 
 ---
 
