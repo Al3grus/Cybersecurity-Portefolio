@@ -44,9 +44,7 @@ This section provides direct links to them:
 
 - **eJPT (Junior Penetration Tester) — INE** — Issued Nov 2025 - certified with 97% score
 - **Cybersecurity Bootcamp — Code Labs Academy** (Apr–Oct 2025)
-- **Certified in Cybersecurity (CC) — ISC2** — Issued Mar 2025 (expires Mar 2028)  
 - **Introduction to Programming with Python — Harvard** — Issued Apr 2024 
-- **Anti-Money Laundering (AML) — Thomson Reuters** — Issued Feb 2023 
 
 ---
 
